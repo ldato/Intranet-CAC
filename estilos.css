@@ -1,0 +1,54 @@
+/* *{
+  box-sizing: border-box;
+  border: 1px solid black;
+}  */
+
+#titulo-cac {
+  margin-left: 22%;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/*.icon-bar {
+  height: 35px;
+  width: 35px;
+}*/
+ #socmed {
+   height: 50px;
+   width: 50px;
+ }
+
+ .fa {
+   height: 45px;
+   width: 45px;
+ }
+
+ .tamanio-iconos {
+   font-size: 2rem;
+ }
+
+ .alto-enlaces {
+   height: 60px;
+ }
+
+ .tamanio-enlaces {
+   font-size: 1rem;
+   color: black;
+   border: none;
+
+ }
+
+ .centrado-enlaces {
+   text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+
+ #parrafo-prueba {
+   font-size: 7rem;
+ }
+
+ .margen-supeior {
+   margin-top: 5rem;
+ }
